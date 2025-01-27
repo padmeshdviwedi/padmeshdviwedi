@@ -1,4 +1,4 @@
-# Welcome to Padmesh Dviwedi's Website Repository
+# Welcome to our Website Repository
 
 Welcome to the creation of a digital haven for compassion, love, and meaningful thought. This is the official repository for **Padmesh Dviwedi's website**, designed to inspire, uplift, and connect humanity through powerful content on **sympathy**, **love**, **compassion**, **philosophy**, and **philanthropy**.
 
@@ -41,12 +41,12 @@ Follow these steps to set up the website locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/website-padmesh.git
+   git clone https://github.com/username/username.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd website-padmesh
+   cd username
    ```
 
 3. **Install dependencies**:
@@ -92,7 +92,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ## 📬 Contact
 Got suggestions, questions, or collaboration ideas? Let’s connect:
-- **Email**: padmesh.dviwedi@example.com  
+- **Email**: padmeshdviwedi0@gmail.com 
 - **Social Media**:[LinkedIn](https://www.linkedin.com/in/padmesh-dviwedi-26b073286/)
 
 ---
