@@ -1,10 +1,4 @@
-import uuid
-
-# Generate a unique artifact_id for the README content
-readme_artifact_id = str(uuid.uuid4())
-
-# Define the README content as a multi-line string with enhanced animations and professional styling
-readme_content = f"""<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=500&color=FF00FF¢er=true&vCenter=true&width=1000&lines=नमस्ते+👋+I'm+Padmesh+Dviwedi;⚡️+Young+Innovator+&+Visionary;🌐+Founder+of+Sarvwigyan+Universe;🧠+Building+AI+&+Quantum+Solutions;💡+Revolutionizing+Knowledge+&+Tech" alt="Typing SVG" />
 </p>
 
@@ -124,9 +118,4 @@ Tools:
 <p align="center">
   Made with ❤️ by <b>Padmesh Dviwedi</b>
 </p>
-"""
 
-# Write the README content to a file with its own artifact_id
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(f"""<xaiArtifact artifact_id="81d526df-378b-484c-bce5-917094fa60a4" artifact_version_id="11fcbbca-067e-4fda-8f38-bbfc15559b72" title="README.md" contentType="text/markdown">
-{readme_content}
