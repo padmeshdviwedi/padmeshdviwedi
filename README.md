@@ -2,13 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=नमस्ते+👋+I'm+Padmesh+Dviwedi;⚡️+Young+Innovator+%26+Visionary;🌐+Founder+of+Sarvwigyan+Universe;🧠+Building+AI+%26+Quantum+Solutions;💡+Revolutionizing+Knowledge+%26+Tech" alt="Typing SVG" />
 </p>
 
+<h1 align="center">✨ Padmesh Dviwedi ✨</h1>
 
-
-<h1 align="center" style="font-size: 60px; color: #ff00ff; text-shadow: 2px 2px 4px #00aaff;">✨ Padmesh Dviwedi ✨</h1>
-
-<p align="center" style="font-size: 18px; color: #ffffff;">
-  🚀 Tech Enthusiast | 💡 Innovator | ⚛️ AI & Quantum Pioneer | 🌍 Founder of Sarvwigyan Universe
-  <br>
+<p align="center">
+  🚀 Tech Enthusiast • 💡 Innovator • ⚛️ AI & Quantum Pioneer • 🌍 Founder of Sarvwigyan Universe  
+  <br/>
   <img src="https://img.shields.io/badge/Revolutionizing_Tech-FF00FF?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=1a1a1a" alt="Badge" />
 </p>
 
@@ -18,7 +16,7 @@
 
 - 🧠 Passionate about **Quantum Physics**, **AI/AGI**, **Deep Tech**, and **Philosophy**
 - 👨‍💻 Mastering: `Python`, `C++`, `JavaScript`, `HTML/CSS`, `Bash`
-- 🌱 Building: Sarvwigyan, SarvStore, SarvPedia, and a Hindi programming language
+- 🌱 Building: **Sarvwigyan**, **SarvStore**, **SarvPedia**, and a **Hindi programming language**
 - 🚀 Mission: Create India's most innovative tech and knowledge ecosystem
 
 ---
@@ -55,7 +53,6 @@ Tools:
   - LangChain
   - LlamaIndex
   - Coqui TTS
-```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=padmeshdviwedi&show_icons=true&count_private=true&hide=stars&title_color=ff00ff&icon_color=00aaff&text_color=ffffff&bg_color=1a1a1a&border_radius=12" alt="GitHub Stats" width="49%" />
