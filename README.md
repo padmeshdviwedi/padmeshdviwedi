@@ -1,15 +1,14 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=नमस्ते+%F0%9F%91%8B+I'm+Padmesh+Dviwedi;A+Young+Innovator+%E2%9A%A1%EF%B8%8F;Dreaming+to+revolutionize+AI+and+Quantum;Founder+of+Sarvwigyan+🌐;Future+IITian+%E2%9C%88%EF%B8%8F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=नमस्ते+%F0%9F%91%8B+I'm+Padmesh+Dviwedi;A+Young+Innovator+%E2%9A%A1%EF%B8%8F;Dreaming+to+revolutionize+AI+and+Quantum;Founder+of+Sarvwigyan+🌐" alt="Typing SVG">
 </p>
-
 
 <!-- Name and Title -->
 <h1 align="center" style="font-size: 50px; color: #ff00ff;">✨ Padmesh Dviwedi ✨</h1>
 
 <p align="center">
-  🚀 Teen Tech Enthusiast | 💡 Inventor | 🧠 AI & Quantum Explorer <br/>
-  📚 Class 11 | 🎯 JEE + IOQM Aspirant | 🛠️ Building Sarvwigyan 🌍
+  🚀 Tech Enthusiast | 💡 Inventor | 🧠 AI & Quantum Explorer <br/>
+  🛠️ Founder of Sarvwigyan 🌍
 </p>
 
 ---
@@ -18,8 +17,8 @@
 
 - 🧠 Passionate about **Quantum Physics**, **AI**, and **Deep Tech**
 - 👨‍💻 Currently learning `C++`, `Python`, `AI`, `Web Dev`, and `Quantum Computing`
-- 🌱 Working on: My own AI assistant, Hindi programming language, and Sarvwigyan
-- 🚀 Goal: Build India's most impactful knowledge-tech ecosystem
+- 🌱 Building: a Hindi programming language, an intelligent assistant, and Sarvwigyan
+- 🚀 Goal: Create India’s most revolutionary tech and knowledge platform
 
 ---
 
@@ -64,7 +63,6 @@
 </p>
 
 ---
-
 
 <!-- Footer -->
 <p align="center">
