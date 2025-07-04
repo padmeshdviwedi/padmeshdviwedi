@@ -142,10 +142,10 @@
 ---
 <!-- Animated Sarcasm Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&pause=500&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!+😜;Wink+wink,+code+on!+🚀" alt="Sarcasm SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&pause=400&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!+😜;Keep+up,+quantum+coder!+🚀" alt="Sarcasm SVG">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2xK7S4z9b0kY0/giphy.gif" alt="Sarcastic Cat" width="250"/>
+  <img src="https://media.giphy.com/media/26FPy3QZQqGtD3qLs/giphy.gif" alt="Sarcastic Cartoon Cat" width="250"/>
 </p>
 
 <!-- Footer -->
