@@ -1,34 +1,26 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=700&color=FF00FF¢er=true&vCenter=true&width=1000&lines=नमस्ते+😺+I'm+Padmesh+Dviwedi!;Master+Innovator+⚡️+Ruling+the+Quantum+Realm!;Coding+the+Cosmos+with+AI+&+Quantum+🌌;Founder+of+Sarvwigyan+🌐" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=700&color=FF00FF&center=true&vCenter=true&width=1000&lines=नमस्ते+😺+I'm+Padmesh+Dviwedi!;Quantum+Code+Controller+⚡️;Mastering+AI+&+Quantum+Realms+🌌;Founder+of+Sarvwigyan+🌐" alt="Typing SVG">
 </p>
 
 <!-- Cartoonist-Programmer Introduction -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8kwk3gTIz8I/giphy.gif" alt="Cartoonist Programmer" width="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Cartoonist Programmer" width="300"/>
 </p>
-<h2 align="center" style="font-size: 40px; color: #00aaff; animation: glow 1.5s ease-in-out infinite alternate;">
-  😺 The Quantum Code Maestro 😺
+<h2 align="center" style="font-size: 40px; color: #00aaff;">
+  😺 The Quantum Code Controller 😺
 </h2>
 <p align="center">
-  Meet <b>Padmesh Dviwedi</b>, the ultimate cartoonist-programmer, donned in a sleek white lab coat and a futuristic white hat, typing furiously on a glowing quantum computer. With a mischievous cat by his side, he controls the digital cosmos, weaving AI and quantum magic to shape the future! 🌍✨
+  Behold <b>Padmesh Dviwedi</b>, the master cartoonist-programmer, clad in a pristine white lab coat and futuristic white hat, commanding a glowing quantum computer. With a mischievous cat typing at lightspeed by his side, he orchestrates the digital universe, fusing AI and quantum wizardry to rule the cosmos! 🌍✨
 </p>
 
-<!-- CSS for Glow Animation -->
-<style>
-  @keyframes glow {
-    from { text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #00aaff; }
-    to { text-shadow: 0 0 20px #00aaff, 0 0 30px #ff00ff, 0 0 40px #00ff00; }
-  }
-</style>
-
 <!-- Animated Name and Title -->
-<h1 align="center" style="font-size: 60px; color: #ff00ff; animation: glow 1.5s ease-in-out infinite alternate;">
+<h1 align="center" style="font-size: 60px; color: #ff00ff;">
   ✨ Padmesh Dviwedi ✨
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀-Quantum+Code+Maestro-00aaff?style=for-the-badge&labelColor=000000&color=00aaff&animated=true" />
+  <img src="https://img.shields.io/badge/🚀-Quantum+Controller-00aaff?style=for-the-badge&labelColor=000000&color=00aaff&animated=true" />
   <img src="https://img.shields.io/badge/💡-AI+Visionary-ff00ff?style=for-the-badge&labelColor=000000&color=ff00ff&animated=true" />
   <img src="https://img.shields.io/badge/🧠-Cosmic+Innovator-00ff00?style=for-the-badge&labelColor=000000&color=00ff00&animated=true" />
   <br/>
@@ -46,12 +38,12 @@
   <img src="https://img.shields.io/badge/AI-FF9900?style=flat-square&logo=tensorflow&logoColor=white&animated=true" /> 
   <img src="https://img.shields.io/badge/Web_Dev-00CED1?style=flat-square&logo=javascript&logoColor=white&animated=true" /> 
   <img src="https://img.shields.io/badge/Quantum-8A2BE2?style=flat-square&logo=quantum&logoColor=white&animated=true" />
-- 🌱 **Building**: A revolutionary Hindi programming language, an intelligent quantum assistant, and <a href="https://sarvwigyan.github.io">Sarvwigyan</a>  
+- 🌱 **Building**: A Hindi programming language, a quantum-powered intelligent assistant, and <a href="https://sarvwigyan.github.io">Sarvwigyan</a>  
 - 🚀 **Mission**: Forge India’s ultimate tech and knowledge empire 🌍  
-- 😺 **Fun Fact**: My cat co-pilot debug my quantum code! 🐾
+- 😺 **Fun Fact**: My quantum cat co-pilot debugs code faster than light! 🐾
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Cat Animation" width="300"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
 
 ---
@@ -102,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Quantum Animation" width="250"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Achievement Animation" width="250"/>
 </p>
 
 ---
@@ -117,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=900&color=00AAFF¢er=true&vCenter=true&width=600&lines=Join+me+to+code+the+universe!+🌌😺" alt="Connect SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=900&color=00AAFF&center=true&vCenter=true&width=600&lines=Join+me+to+rule+the+digital+cosmos!+🌌😺" alt="Connect SVG">
 </p>
 
 ---
@@ -144,12 +136,12 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Quantum Cat Typing" width="300"/>
 </p>
 <p align="center">
-  My quantum cat assistant types at lightspeed on our cosmic quantum computer, orchestrating the digital universe! 🐾⚡️
+  My quantum cat, in a tiny white lab coat, types at warp speed on our-gauge quantum computer, orchestrating the digital universe alongside me! 🐾⚡️
 </p>
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=26&pause=800&color=FF9900¢er=true&vCenter=true&width=600&lines=Coded+with+❤️+by+Padmesh+&+Quantum+Cat;Rule+the+Cosmos,+One+Line+at+a+Time!+🌟" alt="Footer SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=26&pause=800&color=FF9900&center=true&vCenter=true&width=600&lines=Coded+with+❤️+by+Padmesh+&+Quantum+Cat;Rule+the+Cosmos,+One+Line+at+a+Time!+🌟" alt="Footer SVG">
 </p>
