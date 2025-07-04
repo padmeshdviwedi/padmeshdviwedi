@@ -141,16 +141,16 @@
 
 ---
 <!-- Animated Sarcasm Footer -->
+<!-- Animated Sarcasm Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&pause=300&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!+😜;Quantum+winks+from+the+cosmos!+🌌" alt="Sarcasm SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&pause=300&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!" alt="Sarcasm SVG">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnfU3K6bX3Y2I/giphy.gif" alt="Sarcastic Cartoon Cat" width="250"/>
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Sarcastic Cartoon Cat" width="250"/>
 </p>
 <p align="center">
-  <b>😺 *Sarcasm Mode: ON* 😺 ~~~ *Winking at the universe!* ~~~</b>
+  <b>😺 *Sarcasm Mode: MAX* 😺 ~~~ *Winking at the multiverse!* ~~~</b>
 </p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=26&pause=800&color=FF9900&center=true&vCenter=true&width=600&lines=Coded+with+❤️+by+Padmesh+&+Quantum+Cat;Rule+the+Cosmos,+One+Line+at+a+Time!+🌟" alt="Footer SVG">
