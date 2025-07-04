@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Achievement Animation" width="250"/>
+  <img src="https://sarvwigyan.github.io/resources/GIF/gif1.gif" alt="Achievement Animation" width="250"/>
 </p>
 
 ---
@@ -133,7 +133,7 @@
 ### 😺 Quantum Cat’s Coding Lair
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Quantum Cat Typing" width="300"/>
+  <img src="https://sarvwigyan.github.io/resources/GIF/cat2.gif" alt="Quantum Cat Typing" width="300"/>
 </p>
 <p align="center">
   My quantum cat, in a tiny white lab coat, types at warp speed on our-gauge quantum computer, orchestrating the digital universe alongside me! 🐾⚡️
@@ -146,7 +146,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&pause=300&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!" alt="Sarcasm SVG">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Sarcastic Cartoon Cat" width="250"/>
+  <img src="https://sarvwigyan.github.io/resources/GIF/gif2.gif" alt="Sarcastic Cartoon Cat" width="250"/>
 </p>
 <p align="center">
   <b>😺 *Sarcasm Mode: MAX* 😺 ~~~ *Winking at the multiverse!* ~~~</b>
