@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=500&color=FF00FF¢er=true&vCenter=true&width=1000&lines=नमस्ते+👋+I'm+Padmesh+Dviwedi;⚡️+Young+Innovator+&+Visionary;🌐+Founder+of+Sarvwigyan+Universe;🧠+Building+AI+&+Quantum+Solutions;💡+Revolutionizing+Knowledge+&+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=नमस्ते+👋+I'm+Padmesh+Dviwedi;⚡️+Young+Innovator+%26+Visionary;🌐+Founder+of+Sarvwigyan+Universe;🧠+Building+AI+%26+Quantum+Solutions;💡+Revolutionizing+Knowledge+%26+Tech" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center" style="font-size: 60px; color: #ff00ff; text-shadow: 2px 2px 4px #00aaff;">✨ Padmesh Dviwedi ✨</h1>
 
