@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=नमस्ते+%F0%9F%91%8B+I'm+Padmesh+Dviwedi;A+Young+Innovator+%E2%9A%A1%EF%B8%8F;Dreaming+to+revolutionize+AI+and+Quantum;Founder+of+Sarvwigyan+🌐;Future+IITian+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=नमस्ते+%F0%9F%91%8B+I'm+Padmesh+Dviwedi;A+Young+Innovator+%E2%9A%A1%EF%B8%8F;Dreaming+to+revolutionize+AI+and+Quantum;Founder+of+Sarvwigyan+🌐;Future+IITian+%E2%9C%88%EF%B8%8F" alt="Typing SVG">
 </p>
+
 
 <!-- Name and Title -->
 <h1 align="center" style="font-size: 50px; color: #ff00ff;">✨ Padmesh Dviwedi ✨</h1>
