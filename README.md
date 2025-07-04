@@ -142,10 +142,13 @@
 ---
 <!-- Animated Sarcasm Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&pause=400&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!+😜;Keep+up,+quantum+coder!+🚀" alt="Sarcasm SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&pause=300&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!+😜;Quantum+winks+from+the+cosmos!+🌌" alt="Sarcasm SVG">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtD3qLs/giphy.gif" alt="Sarcastic Cartoon Cat" width="250"/>
+  <img src="https://media.giphy.com/media/3o7TKtnfU3K6bX3Y2I/giphy.gif" alt="Sarcastic Cartoon Cat" width="250"/>
+</p>
+<p align="center">
+  <b>😺 *Sarcasm Mode: ON* 😺 ~~~ *Winking at the universe!* ~~~</b>
 </p>
 
 <!-- Footer -->
