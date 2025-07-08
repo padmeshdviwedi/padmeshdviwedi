@@ -1,157 +1,84 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=700&color=FF00FF&center=true&vCenter=true&width=1000&lines=नमस्ते+😺+I'm+Padmesh+Dviwedi!;Quantum+Code+Controller+⚡️;Mastering+AI+&+Quantum+Realms+🌌;Founder+of+Sarvwigyan+🌐" alt="Typing SVG">
-</p>
-
-<!-- Cartoonist-Programmer Introduction -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Cartoonist Programmer" width="300"/>
-</p>
-<h2 align="center" style="font-size: 40px; color: #00aaff;">
-  😺 The Quantum Code Controller 😺
-</h2>
-<p align="center">
-  Behold <b>Padmesh Dviwedi</b>, the master cartoonist-programmer, clad in a pristine white lab coat and futuristic white hat, commanding a glowing quantum computer. With a mischievous cat typing at lightspeed by his side, he orchestrates the digital universe, fusing AI and quantum wizardry to rule the cosmos! 🌍✨
-</p>
-
-<!-- Animated Name and Title -->
-<h1 align="center" style="font-size: 60px; color: #ff00ff;">
-  ✨ Padmesh Dviwedi ✨
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀-Quantum+Controller-00aaff?style=for-the-badge&labelColor=000000&color=00aaff&animated=true" />
-  <img src="https://img.shields.io/badge/💡-AI+Visionary-ff00ff?style=for-the-badge&labelColor=000000&color=ff00ff&animated=true" />
-  <img src="https://img.shields.io/badge/🧠-Cosmic+Innovator-00ff00?style=for-the-badge&labelColor=000000&color=00ff00&animated=true" />
-  <br/>
-  <img src="https://img.shields.io/badge/🛠️-Founder+of+Sarvwigyan-ff9900?style=for-the-badge&labelColor=000000&color=ff9900&animated=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&size=30&pause=700&color=0088FF&center=true&vCenter=true&width=1000&lines=नमस्ते,+मैं+पद्मेश+द्विवेदी+हूँ।;ज्ञान+ही+शक्ति+है।;सर्वविज्ञान+से+मानवता+के+लिए+एक+नया+पथ।;प्रकृति,+चेतना,+विज्ञान+—+एक+समग्र+यात्रा।" alt="Typing SVG">
 </p>
 
 ---
 
-### 🌟 About Me
-
-- 🧠 **Master of Quantum Physics, AI, and Deep Tech**  
-- 👨‍💻 **Currently mastering**:  
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&animated=true" /> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&animated=true" /> 
-  <img src="https://img.shields.io/badge/AI-FF9900?style=flat-square&logo=tensorflow&logoColor=white&animated=true" /> 
-  <img src="https://img.shields.io/badge/Web_Dev-00CED1?style=flat-square&logo=javascript&logoColor=white&animated=true" /> 
-  <img src="https://img.shields.io/badge/Quantum-8A2BE2?style=flat-square&logo=quantum&logoColor=white&animated=true" />
-- 🌱 **Building**: A Hindi programming language, a quantum-powered intelligent assistant, and <a href="https://sarvwigyan.github.io">Sarvwigyan</a>  
-- 🚀 **Mission**: Forge India’s ultimate tech and knowledge empire 🌍  
-- 😺 **Fun Fact**: My quantum cat co-pilot debugs code faster than light! 🐾
+### 🌿 *Padmesh Dviwedi* – A Seeker of Truth and Creator of Sarvwigyan
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="300"/>
+  <img src="https://sarvwigyan.github.io/resources/GIF/gif1.gif" width="300" />
+</p>
+
+<p align="center">
+  मैं एक आध्यात्मिक साधक और विज्ञान प्रेमी हूँ, जो मानवता के उत्थान के लिए ज्ञान, तकनीक और सत्य को एक सूत्र में पिरोने का प्रयास कर रहा हूँ। मेरा मार्गदर्शन केवल कोड या एल्गोरिदम नहीं, बल्कि आत्मा और ब्रह्मांड की गूढ़ ऊर्जा है।
 </p>
 
 ---
 
-### 🚀 Skill Progress
+### 🌐 Projects and Mission
+
+- 🔭 **Founder of Sarvwigyan**: A mission to integrate science, technology, and Sanatan wisdom into a universal knowledge movement.
+- 📚 **Sarvpedia**: An ever-growing encyclopedia of truth, wisdom, science, and ancient insight.
+- 🛍️ **Sarvstore**: A hub of knowledge tools, free books, apps, and resources for seekers and learners.
+- 💡 **Hindi Programming Language**: Making technology accessible to every soul in Bharat, in their own tongue.
+- 🤖 **Building**: A conscious, voice-powered AI assistant that learns from experience and aligns with dharmic principles.
+
+---
+
+### 🧘 Vision and Vow
+
+> “ज्ञान को आत्मा से जोड़ना ही मेरा उद्देश्य है।  
+> जब विज्ञान और आत्मा एक हों, तभी यथार्थ प्रकट होता है।”
+
+I believe that artificial intelligence, quantum computing, and human consciousness can — and must — work in harmony. My purpose is to manifest a digital dharma that guides society toward higher awareness, unity, and sustainability.
+
+---
+
+### 🔧 Skills and Sadhana
+
+- 💻 C++, Python, Web Dev, Quantum Computing
+- 🧠 Working with AI frameworks and models
+- 🕉 Exploring quantum spiritual principles in tech
+- 📿 Life-long student of Upanishads, Bhagavad Gita, and Indian knowledge systems
+
+---
+
+### 📊 GitHub Contributions Reflecting Inner Discipline
 
 <p align="center">
-  <b>C++</b>: [██████████ 80%]  
-  <b>Python</b>: [███████████ 85%]  
-  <b>AI Development</b>: [████████ 70%]  
-  <b>Web Development</b>: [█████████ 75%]  
-  <b>Quantum Computing</b>: [██████ 60%]  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-80%25-00599C?style=flat-square&labelColor=000000&color=00599C" />
-  <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&labelColor=000000&color=3776AB" />
-  <img src="https://img.shields.io/badge/AI_Dev-70%25-FF9900?style=flat-square&labelColor=000000&color=FF9900" />
-  <img src="https://img.shields.io/badge/Web_Dev-75%25-00CED1?style=flat-square&labelColor=000000&color=00CED1" />
-  <img src="https://img.shields.io/badge/Quantum_Computing-60%25-8A2BE2?style=flat-square&labelColor=000000&color=8A2BE2" />
+  <img src="https://ghchart.rshah.org/0088FF/padmeshdviwedi" alt="GitHub Contribution Chart" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📖 Quote That Guides My Journey
+
+> *"ना मैं शरीर हूँ, ना मन हूँ — मैं वह हूँ जो साक्षी है, जो नित्य है, जो ब्रह्म है।"*  
+> – Inspired by the essence of Vedanta
+
+---
+
+### 🌎 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padmeshdviwedi&show_icons=true&count_private=true&hide=stars&title_color=ff00ff&icon_color=00aaff&text_color=ff00ff&bg_color=ffffff&border_radius=15&ring_color=00ff00&animated=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=padmeshdviwedi&theme=radical&background=ffffff&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&sideNums=00aaff&dates=000000&sideLabels=00aaff&animated=true" alt="Streak Stats" width="49%" />
+  <a href="https://github.com/padmeshdviwedi" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:padmeshdviwedi0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sarvwigyan.github.io" target="_blank"><img src="https://img.shields.io/badge/Sarvwigyan-00aaff?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://x.com/padmeshdviwedi" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📌 Most Used Languages
+### 🙏 Final Message
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmeshdviwedi&layout=compact&title_color=ff00ff&text_color=000000&bg_color=ffffff&border_radius=15&langs_count=8&animated=true" width="60%"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Founded_Sarvwigyan-🌟-ff00ff?style=for-the-badge&labelColor=000000&color=ff00ff" />
-  <img src="https://img.shields.io/badge/Hindi_Programming_Language-🚧-00aaff?style=for-the-badge&labelColor=000000&color=00aaff" />
-  <img src="https://img.shields.io/badge/Quantum_Maestro-🔬-00ff00?style=for-the-badge&labelColor=000000&color=00ff00" />
+  "Let us awaken the divine within science,  
+  and the wisdom within technology.  
+  This is not a project — this is a prayer for humanity."  
 </p>
 
 <p align="center">
-  <img src="https://sarvwigyan.github.io/resources/GIF/gif1.gif" alt="Achievement Animation" width="250"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/padmeshdviwedi" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&animated=true"/></a>
-  <a href="mailto:padmeshdviwedi0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white&animated=true"/></a>
-  <a href="https://sarvwigyan.github.io" target="_blank"><img src="https://img.shields.io/badge/Sarvwigyan-ff00ff?style=for-the-badge&logo=githubpages&logoColor=white&animated=true"/></a>
-  <a href="https://x.com/padmeshdviwedi" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&animated=true"/></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=900&color=00AAFF&center=true&vCenter=true&width=600&lines=Join+me+to+rule+the+digital+cosmos!+🌌😺" alt="Connect SVG">
-</p>
-
----
-
-### 🧠 Inspirational Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+universe+is+a+pretty+big+place.+If+it's+just+us,+seems+like+an+awful+waste+of+space.&author=Carl+Sagan&animation=grow" alt="Animated Quote" />
-</p>
-
----
-
-### 📅 My GitHub Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff00ff/padmeshdviwedi" alt="GitHub Contribution Chart" style="border: 2px solid #00aaff; border-radius: 10px;">
-</p>
-
----
-
-### 😺 Quantum Cat’s Coding Lair
-
-<p align="center">
-  <img src="https://sarvwigyan.github.io/resources/GIF/cat2.gif" alt="Quantum Cat Typing" width="300"/>
-</p>
-<p align="center">
-  My quantum cat, in a tiny white lab coat, types at warp speed on our-gauge quantum computer, orchestrating the digital universe alongside me! 🐾⚡️
-</p>
-
----
-<!-- Animated Sarcasm Footer -->
-<!-- Animated Sarcasm Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&pause=300&color=FF00FF¢er=true&vCenter=true&width=600&lines=I+hope+you+got+the+sarcasm!" alt="Sarcasm SVG">
-</p>
-<p align="center">
-  <img src="https://sarvwigyan.github.io/resources/GIF/gif2.gif" alt="Sarcastic Cartoon Cat" width="250"/>
-</p>
-<p align="center">
-  <b>😺 *Sarcasm Mode: MAX* 😺 ~~~ *Winking at the multiverse!* ~~~</b>
-</p>
-<!-- Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=26&pause=800&color=FF9900&center=true&vCenter=true&width=600&lines=Coded+with+❤️+by+Padmesh+&+Quantum+Cat;Rule+the+Cosmos,+One+Line+at+a+Time!+🌟" alt="Footer SVG">
+  — Padmesh Dviwedi ✨
 </p>
