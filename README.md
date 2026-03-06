@@ -5,7 +5,7 @@
 
 ---
 
-### 🌿 *Padmesh Dviwedi* – A Seeker of Truth and Creator of Sarvwigyan
+### 🌿A Seeker of Truth and Creator of Sarvwigyan
 
 <p align="center">
   <img src="https://sarvwigyan.github.io/resources/GIF/gif1.gif" width="300" />
